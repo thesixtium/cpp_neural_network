@@ -1,0 +1,1 @@
+/usr/bin/c++.exe -g -Wl,--enable-auto-import CMakeFiles/cpp_neural_network.dir/main.cpp.o -o cpp_neural_network.exe -Wl,--out-implib,libcpp_neural_network.dll.a -Wl,--major-image-version,0,--minor-image-version,0 
